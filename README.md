@@ -1,5 +1,5 @@
 # Hi, I’m @echthys
-- I’m interested in all things Azure, .NET and PowerShell
+- I’m currently learning Full Stack JavaScript starting with NodeJS! I am a cloud enthusiast and will automate everything I can. 
 
 
 <!---
