@@ -1,6 +1,8 @@
 # Hi, I’m @echthys(Ethan) 
 
-I am a Azure DevOps Engineer and Developer. I love all things Azure, PowerShell, C#, Terraform and Puppet.
+I am a Azure DevOps Engineer and Developer. 
+
+I love all things Azure, PowerShell, C#, HTML, CSS, JavaScript,  Terraform and Puppet.
 
 I automate everything I can. 
 
