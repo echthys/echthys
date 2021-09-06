@@ -1,5 +1,8 @@
-# Hi, I’m @echthys
-- I’m currently learning Full Stack JavaScript starting with NodeJS! I am a cloud enthusiast and will automate everything I can. 
+# Hi, I’m @echthys(Ethan) 
+
+I am a Azure DevOps Engineer and Developer. I love all things Azure, PowerShell, C#, Terraform and Puppet.
+
+I automate everything I can. 
 
 
 <!---
